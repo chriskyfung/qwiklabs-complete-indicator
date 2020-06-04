@@ -1,2 +1,2 @@
 # qwiklabs-complete-indicator
-Rename to qwiklabs-completed-labs-tracker
+The project has been renamed, please visit the new repository [chriskyfung/qwiklabs-completed-labs-tracker](https://github.com/chriskyfung/qwiklabs-completed-labs-tracker).
